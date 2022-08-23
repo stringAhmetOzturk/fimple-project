@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Fimple Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Game will start on App.js
 
 ## Available Scripts
 
