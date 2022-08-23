@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display:grid;
+  width: 600px;
+  height: 600px;
+  margin: auto;
+  justify-content: center;
+}
+.player{
+  color: red;
+}
+table td{
+  border:solid red;
+ width: 100px;
+ height: 100px;
+}
